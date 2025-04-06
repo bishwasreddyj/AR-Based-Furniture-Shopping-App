@@ -1,0 +1,11 @@
+framework module ar_flutter_plugin {
+  umbrella header "ar_flutter_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module ar_flutter_plugin.Swift {
+  header "ar_flutter_plugin-Swift.h"
+  requires objc
+}
