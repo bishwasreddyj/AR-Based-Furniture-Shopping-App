@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "furniture" "\0"
+            VALUE "FileDescription", "arfurnitureapp" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "furniture" "\0"
+            VALUE "InternalName", "arfurnitureapp" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "furniture.exe" "\0"
-            VALUE "ProductName", "furniture" "\0"
+            VALUE "OriginalFilename", "arfurnitureapp.exe" "\0"
+            VALUE "ProductName", "arfurnitureapp" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

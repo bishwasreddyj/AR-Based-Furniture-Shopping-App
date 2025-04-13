@@ -1,0 +1,37 @@
+<lint-module
+    format="1"
+    dir="/Users/vishnugunreddy/.pub-cache/hosted/pub.dev/camera_android-0.10.10+2/android"
+    name=":camera_android"
+    type="LIBRARY"
+    maven="io.flutter.plugins.camera:camera_android:1.0-SNAPSHOT"
+    agpVersion="8.7.0"
+    buildFolder="/Users/vishnugunreddy/Documents/apps/arfurnitureapp/build/camera_android"
+    bootClassPath="/Users/vishnugunreddy/Library/Android/sdk/platforms/android-35/android.jar:/Users/vishnugunreddy/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      disable="AndroidGradlePluginVersion,InvalidPackage,GradleDependency,NewerVersionAvailable"
+      abortOnError="true"
+      absolutePaths="true"
+      checkAllWarnings="true"
+      warningsAsErrors="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="AndroidGradlePluginVersion"
+        severity="IGNORE" />
+      <severity
+        id="GradleDependency"
+        severity="IGNORE" />
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+      <severity
+        id="NewerVersionAvailable"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

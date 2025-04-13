@@ -1,0 +1,32 @@
+<variant
+    name="release"
+    package="io.flutter.plugins.flutter_plugin_android_lifecycle"
+    minSdkVersion="19"
+    targetSdkVersion="19"
+    mergedManifest="/Users/vishnugunreddy/Documents/apps/arfurnitureapp/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/Users/vishnugunreddy/Documents/apps/arfurnitureapp/build/flutter_plugin_android_lifecycle/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/vishnugunreddy/Documents/apps/arfurnitureapp/build/flutter_plugin_android_lifecycle/intermediates/default_proguard_files/global/proguard-android.txt-8.7.0"
+    consumerProguardFiles="proguard.txt"
+    partialResultsDir="/Users/vishnugunreddy/Documents/apps/arfurnitureapp/build/flutter_plugin_android_lifecycle/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/Users/vishnugunreddy/Documents/apps/arfurnitureapp/build/flutter_plugin_android_lifecycle/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/vishnugunreddy/Documents/apps/arfurnitureapp/build/flutter_plugin_android_lifecycle/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="io.flutter.plugins.flutter_plugin_android_lifecycle"
+      generatedSourceFolders="/Users/vishnugunreddy/Documents/apps/arfurnitureapp/build/flutter_plugin_android_lifecycle/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/vishnugunreddy/Documents/apps/arfurnitureapp/build/flutter_plugin_android_lifecycle/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/vishnugunreddy/.gradle/caches/8.10.2/transforms/fbecfe94b3479b79f4cfc2149be70a0a/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

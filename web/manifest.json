@@ -1,6 +1,6 @@
 {
-    "name": "furniture",
-    "short_name": "furniture",
+    "name": "arfurnitureapp",
+    "short_name": "arfurnitureapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
